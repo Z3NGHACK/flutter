@@ -49,11 +49,11 @@ class PortfolioPage extends StatelessWidget {
               const SizedBox(height: 20),
               const CircleAvatar(
                 radius: 60,
-                backgroundImage: AssetImage('assets/pf.jpg'), // Put your image in assets folder
+                backgroundImage: AssetImage('/lib/assets/pf.jpg'),
               ),
               const SizedBox(height: 16),
               const Text(
-                'Your Name',
+                'Chea Senghak',
                 style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
               ),
               const SizedBox(height: 8),
@@ -63,7 +63,7 @@ class PortfolioPage extends StatelessWidget {
               ),
               const SizedBox(height: 24),
               const Text(
-                'Hi! I’m a passionate Flutter developer with skills in mobile UI/UX design. I love creating clean and responsive interfaces.',
+                'Im a GIC who like computer science and explore something new',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 16),
               ),
