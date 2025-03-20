@@ -49,11 +49,11 @@ class PortfolioPage extends StatelessWidget {
               const SizedBox(height: 20),
               const CircleAvatar(
                 radius: 60,
-                backgroundImage: AssetImage('/lib/assets/pf.jpg'),
+                backgroundImage: AssetImage('assets/pf.jpg'),
               ),
               const SizedBox(height: 16),
               const Text(
-                'Chea Senghak',
+                'Chea Senghakdddd',
                 style: TextStyle(fontSize: 28, fontWeight: FontWeight.bold),
               ),
               const SizedBox(height: 8),
